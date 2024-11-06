@@ -1,0 +1,4 @@
+#Tue Feb 20 01:14:07 TRT 2024
+base.0=/Users/meliserdogan/Desktop/Flutter_Tabu-master/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
